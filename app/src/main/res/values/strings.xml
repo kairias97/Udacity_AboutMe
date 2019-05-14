@@ -2,4 +2,20 @@
     <string name="app_name">About Me</string>
     <string name="name">Kevin Irías</string>
     <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et orci vitae eros feugiat
+        porttitor. Quisque cursus orci ante, at mattis libero cursus eu. Duis pulvinar dui lorem, vitae mollis nulla
+        convallis et. Donec egestas mi sit amet purus varius, sit amet fringilla erat vehicula. Quisque rutrum turpis
+        nisl, blandit commodo lorem mollis ut. Phasellus id dolor nisl. Pellentesque ut imperdiet tortor. Aliquam erat
+        volutpat. Mauris scelerisque vulputate arcu, quis dictum sem accumsan ac. Morbi cursus neque sit amet odio
+        venenatis, at venenatis est condimentum. Sed euismod, ante eu congue tristique, odio leo convallis lacus, et
+        finibus turpis leo eu risus. Sed ultricies tortor at neque gravida, dictum tempor ligula pulvinar. Nullam velit
+        mauris, gravida aliquam massa id, viverra tincidunt lectus. Phasellus id eros pretium, tristique eros quis,
+        finibus eros. Nulla vulputate nisl vitae elit dignissim tempus. Aliquam magna dolor, ornare a ante quis, feugiat
+        viverra justo. Cras velit sem, ullamcorper sed hendrerit at, porttitor nec nisi. Integer ut pretium lorem. Sed
+        viverra purus nibh, eu ultrices erat accumsan et. Nulla mollis aliquam eros. Suspendisse scelerisque rhoncus
+        commodo. Aliquam tempor libero sed viverra fringilla. Vivamus consectetur ultrices quam, in tincidunt orci
+        elementum ut.
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
 </resources>
